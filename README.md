@@ -11,7 +11,7 @@
 - **Position/Role** : Senior Frontend Web Developer
 - **Experience** : 5 Years (Since 2018)
 
-**Social Media Account**
+## Social Media Account
 - [Instagram](https://www.instagram.com/pbagastama/)
 - [Twitter](https://twitter.com/pbagastama)
 - [Github](https://github.com/pbagastama)
