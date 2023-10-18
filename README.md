@@ -12,7 +12,7 @@
 - **Experience** : 5 Years (Since 2018)
 
 **Social Media Account**
-[Instagram](https://twitter.com/pbagastama)
-[Twitter](https://twitter.com/pbagastama)
-[Github](https://twitter.com/pbagastama)
-[Linkedin](https://twitter.com/pbagastama)
+- [Instagram](https://www.instagram.com/pbagastama/)
+- [Twitter](https://twitter.com/pbagastama)
+- [Github](https://github.com/pbagastama)
+- [Linkedin](https://www.linkedin.com/in/pbagastama/)
