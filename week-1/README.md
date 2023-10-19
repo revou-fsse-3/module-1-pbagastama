@@ -1,4 +1,4 @@
-# Sample Website for Week 1 - Penguin Fanclub
+# Sample Website for Week 1
 
 Assignment Example for Week 1 - Making a landing web page (example: Penguin Fanclub Website)
 
